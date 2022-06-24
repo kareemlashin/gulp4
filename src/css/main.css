@@ -1,0 +1,8 @@
+.class {
+    box-sizing: border-box;
+    opacity: 1;
+}
+
+* {
+    color: green;
+}
